@@ -11,7 +11,8 @@ A full-stack email sender application built with React frontend and Node.js back
 - 🔄 Loading states
 - 🌐 CORS enabled for development
 - 🔒 Input sanitization and validation
-
+## Screenshot 
+![alt text](frontend/src/assets/image.png)
 ## Tech Stack
 
 ### Backend
